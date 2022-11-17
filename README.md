@@ -23,5 +23,5 @@ Born and raised in NJ, I've had the opportunity to live in Paris, France, and Sa
 
 Feel free to reach out whether it be to collaborate or just to chat! 
 
-## Reach out on LinkedIn: https://www.linkedin.com/in/gina-marie-e/ 
-## Connect on Instagram: https://www.instagram.com/gigix14/
+#### Reach out on LinkedIn: https://www.linkedin.com/in/gina-marie-e/ 
+#### Connect on Instagram: https://www.instagram.com/gigix14/
