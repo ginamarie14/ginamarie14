@@ -21,7 +21,4 @@ My name is Gina Marie, and I am a Web Developer. I am currently finishing a 6-mo
 
 Born and raised in NJ, I've had the opportunity to live in Paris, France, and San Luis Potosí, Mexico. I love traveling, meeting new people, and learning about different cultures. I also love language learning! I speak English, Spanish, and French fluently, and I am conversational in Portuguese. I am currently working on my Mandarin.
 
-Feel free to reach out whether it be to collaborate or just to chat! 
-
-#### Reach out on LinkedIn: https://www.linkedin.com/in/gina-marie-e/ 
-#### Connect on Instagram: https://www.instagram.com/gigix14/
+Feel free to reach out whether it be to collaborate or just to chat!
