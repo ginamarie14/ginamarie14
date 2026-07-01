@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hello! ¡Hola! Salut ! Olà! 大家好 ! 🤗
 
-My name is Gina Marie, and I am a Web Developer. I am currently finishing a 6-month bootcamp in Full-Stack Web Development with the University of California Berkeley. I see web development as a medium to finding solutions, and I hope to transmit my passion for helping and making things pretty through this medium. ✨
+My name is Gina Marie. I am currently studying applied data science at the University of Michigan. I previously completed a bootcamp in Full-Stack Web Development with the University of California Berkeley. I see web development and data analysis as mediums to finding solutions, and I hope to transmit my passion for helping and making things pretty through these mediums. ✨
 
 Born and raised in NJ, I've had the opportunity to live in Paris, France, and San Luis Potosí, Mexico. I love traveling, meeting new people, and learning about different cultures. I also love language learning! I speak English, Spanish, and French fluently, and I am conversational in Portuguese. I am currently working on my Mandarin.
 
